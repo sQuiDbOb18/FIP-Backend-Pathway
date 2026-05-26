@@ -3,3 +3,4 @@ This repository contains my weekly backend internship deliverables and practice 
 
 Tasks
 - Task 1 – Java setup & Hello World
+- Task 2 - Book class task

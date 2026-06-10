@@ -5,3 +5,4 @@ Tasks
 - Task 1 – Java setup & Hello World
 - Task 2 - Book class task
 - Task 3 - Java variables, fields and if else statement
+- Task 4 - Days of the week using enum and inheritance

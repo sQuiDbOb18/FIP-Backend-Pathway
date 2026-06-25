@@ -7,3 +7,4 @@ Tasks
 - Task 3 - Java variables, fields and if else statement
 - Task 4 - Days of the week using enum and inheritance
 - Task 5 - Calculate hours in a day using interface
+- Task 6 - Nested classes, access modifiers and anonymous class
